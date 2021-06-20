@@ -62,11 +62,7 @@ h2 {
     position: relative;
 }
 
-.bottom-cloud {
-    position: absolute;
-    bottom: 100px;
-    left: 40px;
-}
+
 
 hr.style-eight {
     overflow: visible;
