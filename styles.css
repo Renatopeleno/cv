@@ -1,0 +1,89 @@
+body {
+    background-color: #CEE5D0;
+    margin: 20px;
+    text-align: left;
+    font-family: 'Abel', sans-serif;
+}
+
+h1 {
+    width: 50%;
+    margin: 0 auto 0 auto;
+    font-family: 'Ballet', cursive;
+    font-size: 80px;
+}
+
+h2 {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.text {
+    line-height: 2;
+}
+
+.top-container {
+    background-color: #CEE5D0;
+    text-align: center;
+}
+
+
+/* .middle-container { */
+
+
+/* background-color: #9fb3a1; */
+
+
+/* text-align: left;
+} */
+
+
+/* .bottom-container { */
+
+
+/* background-color: #69796b */
+
+
+/* } */
+
+.top-cloud {
+    position: relative;
+    left: 300px;
+}
+
+.profilePicture {
+    position: relative;
+    border-radius: 50%;
+}
+
+.mountain-background {
+    position: relative;
+}
+
+.profile-pic {
+    position: relative;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 100px;
+    left: 100px;
+}
+
+hr.style-eight {
+    overflow: visible;
+    /* For IE */
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+
+hr.style-eight:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: #CEE5D0;
+}
